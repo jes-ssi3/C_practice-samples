@@ -1,5 +1,5 @@
 # C_practice-samples
-This are program files to practice the C programming language.
+These are program files to practice the C programming language.
 
 10/24/2024
 Hello! These sample programs came from our classes and from Chat GPT given problems. There were several testing and debugging to ensure that it would produce desired output, thus it is not entirely me, but also from the internet.
